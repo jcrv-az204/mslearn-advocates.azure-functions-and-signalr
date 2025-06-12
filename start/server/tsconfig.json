@@ -5,9 +5,6 @@
     "outDir": "dist",
     "rootDir": ".",
     "sourceMap": true,
-    "strict": false,
-    "allowJs": true,
-    "resolveJsonModule": true,
-  },
-  "include": ["src/**/*.ts", "src/**/*.json"],
+    "strict": false
+  }
 }
